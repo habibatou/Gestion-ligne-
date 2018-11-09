@@ -1,0 +1,9 @@
+sonar.projectKey=org.sid.VotreBanque
+sonar.projectName=Gestion-ligne-
+sonar.projectBaseDir=VotreBanque
+sonar.sources=src
+sonar.java.binaries=target/classes
+sonar.modules=dao,entities,metier,sec,web
+sonar.projectVersion=1.0.0
+# Liste des identifiants de module
+sonar.sourceEncoding=UTF-8
